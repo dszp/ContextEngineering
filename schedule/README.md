@@ -10,7 +10,11 @@
 
 ---
 
-> **Working draft.** This agenda is a starting point for refinement. Session lengths, ordering, and titles will change as we lock in content.
+### 📱 CITN Conference App
+
+> **All conference details and information live in the [CITN Conference app](https://app.churchitnetwork.com/app/).** All attendees will need it to **check in on Thursday morning (May 7)**, so download and sign in before you arrive.
+
+> ⚠️ **The most current schedule is now available ONLY in the CITN Conference app.** This page may be out of date — always check the app for the latest times, sessions, and any last-minute changes.
 
 ## At a Glance
 
@@ -76,20 +80,17 @@ A relaxed evening to meet the crew and wrap up any prerequisite setup before Day
 
 ---
 
-## Open Questions for Refinement
-
-- Is 60 min enough for the **SDLC crash course** given the audience is mostly new to it, or does it need 90?
-- For Day 2, do we want everyone building the **same reference app** or do we let each attendee bring their own idea?
-- Are there any real ministry scenarios we want to anchor the Day 2 build around (volunteer signup, event check-in, giving dashboard, etc.)?
-- Do we need a short **prompt/context review** slot on Day 2 morning to debug setups before the build starts?
-
----
-
 <p align="center"><strong>Made possible by our partners</strong></p>
 <p align="center">
   <img src="../resources/images/citn-logo.png" alt="Church IT Network" height="48">
   &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="../resources/images/acs-technologies.png" alt="ACS Technologies" height="48">
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="../resources/images/aws.png" alt="Amazon Web Services" height="48">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="../resources/images/higher-ground.png" alt="Higher Ground Technology" height="48">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="../resources/images/servant42.png" alt="Servant 42" height="48">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="../resources/images/kaleo-ai.png" alt="Kaleo AI" height="48">
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -97,7 +98,11 @@ A relaxed evening to meet the crew and wrap up any prerequisite setup before Day
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="../resources/images/studioc.png" alt="The StudioC" height="48">
   &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="../resources/images/nonprofit-security-advisors.png" alt="Nonprofit Security Advisors" height="48">
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="../resources/images/lynde-consulting.png" alt="Lynde Consulting" height="48">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="../resources/images/sardius-media.png" alt="Sardius Media" height="48">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="../resources/images/gloo.png" alt="Gloo" height="48">
   &nbsp;&nbsp;&nbsp;&nbsp;
