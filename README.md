@@ -47,9 +47,7 @@ This workshop focuses on **context engineering** — the discipline of designing
   <img src="resources/images/studioc.png" alt="The StudioC" height="48">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="resources/images/nonprofit-security-advisors.png" alt="Nonprofit Security Advisors" height="48">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="resources/images/lynde-consulting.png" alt="Lynde Consulting" height="48">
-  &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="resources/images/sardius-media.png" alt="Sardius Media" height="48">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="resources/images/gloo.png" alt="Gloo" height="48">
@@ -75,6 +73,10 @@ This workshop focuses on **context engineering** — the discipline of designing
 git clone https://github.com/chriskehayias/ContextEngineering.git
 cd ContextEngineering
 ```
+
+## Resources
+
+A collection of cheat sheets, tools, and reference materials is available in the [Resources](resources/README.md) folder to support you before, during, and after the workshop.
 
 ## License
 
